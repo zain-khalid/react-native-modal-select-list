@@ -19,4 +19,5 @@ export const SelectListRowText = styled.Text`
   padding-bottom: 16;
   padding-left: 16;
   line-height: 32;
+  color: #000;
 `;
