@@ -59,6 +59,7 @@ export const SelectListHeaderInput = styled.TextInput`
   height: 100%;
   padding-left: 8;
   font-size: ${SELECT_LIST_HEADER_INPUT_FONT_SIZE};
+  color: #000
 `;
 
 export const SelectListHeaderInputClearButton = styled.TouchableOpacity`
